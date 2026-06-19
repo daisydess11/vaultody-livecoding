@@ -1,0 +1,12 @@
+{
+  "name": "wallet-service",
+  "version": "0.1.0",
+  "description": "In-memory wallet service for vaultody-livecoding",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
